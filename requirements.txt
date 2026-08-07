@@ -9,3 +9,4 @@ pymupdf
 langchain-text-splitters
 langchain-google-genai
 chromadb
+faiss-cpu
