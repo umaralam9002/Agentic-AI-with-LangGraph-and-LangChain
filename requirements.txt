@@ -6,3 +6,6 @@ pypdf
 bs4
 arxiv
 pymupdf
+langchain-text-splitters
+langchain-google-genai
+chromadb
