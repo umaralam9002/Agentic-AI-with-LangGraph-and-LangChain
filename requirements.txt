@@ -11,3 +11,6 @@ langchain-google-genai
 chromadb
 faiss-cpu
 langchain-chroma
+# used for to scrap the data from the web
+beautifulsoup4 
+langchain-core
