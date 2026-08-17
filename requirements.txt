@@ -15,3 +15,4 @@ langchain-chroma
 beautifulsoup4 
 langchain-core
 streamlit
+langchain-groq
