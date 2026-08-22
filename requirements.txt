@@ -16,3 +16,5 @@ beautifulsoup4
 langchain-core
 streamlit
 langchain-groq
+fastapi
+langserve
