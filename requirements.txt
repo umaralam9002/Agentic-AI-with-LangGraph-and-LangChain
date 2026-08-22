@@ -18,3 +18,4 @@ streamlit
 langchain-groq
 fastapi
 langserve
+transformers
